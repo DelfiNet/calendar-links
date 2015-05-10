@@ -1,0 +1,19 @@
+{
+    "name": "delfinet/calendar-links",
+    "description": "An easy-to-use link generator for creating cevents in various calendar software and online services",
+    "type": "library",
+    "require": {
+        "nickcernis/html-to-markdown": "~2.2"
+    },
+    "autoload": {
+        "classmap": [ "calendarLinks.php" ]
+    },
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name": "Keith Perhac",
+            "email": "keith@delfi-net.com"
+        }
+    ]
+}
